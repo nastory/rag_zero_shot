@@ -1,0 +1,9 @@
+# secrets and environment
+private.py
+bin
+include
+lib
+lib64
+rag_llm
+pyvenv.cfg
+
